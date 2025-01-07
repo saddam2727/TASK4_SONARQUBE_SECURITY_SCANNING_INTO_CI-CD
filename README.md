@@ -28,6 +28,9 @@
 4.jenkins stages.
 ![Screenshot 2025-01-07 185205](https://github.com/user-attachments/assets/2b3525c2-a3f4-424f-a6c4-3378f084072b)
 
+5.auto build.
+![Screenshot 2025-01-07 185249](https://github.com/user-attachments/assets/9bcb1088-589b-4348-ab64-1ced8d09a6ac)
+
 6.deployed website.
 
 ![Screenshot 2025-01-07 185408](https://github.com/user-attachments/assets/fe25c4ad-222d-45c4-819e-06712ba5c299)
